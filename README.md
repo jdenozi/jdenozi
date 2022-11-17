@@ -1,60 +1,66 @@
-# 👦 About me
+## Hello !
+```c++
+#include <iostream>
 
-Hello, I am a software engineer currently working in France. I work mainly with C++ on topics related to health, image processing and cybersecurity.
-
-Do not hesitate to contact me
-
-
-<br>
-
-# 📚 Skills
-
-<table align="center">
-	<thead>
-		<tr>
-			<th colspan="2"><b>Software Development</b></th>
-			<th colspan="1"><b>Computer Graphics</b></th>
-			<th colspan="1"><b>Machine Learning</b></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
-			<td align="center"><a href="https://www.opengl.org//">OpenGL</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Qt">Qt</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Java">Java</a></td>
-      <td align="center"><a href="https://en.wikipedia.org/wiki/Cuda">Cuda</a></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language">GLSL</a></td>
-      <td align="center"><a href="https://en.wikipedia.org/wiki/Cuda">Cuda</a></td>
-			<td align="center"><a href="https://www.tensorflow.org/">Tensorflow</a></td>
-		</tr>
-	</tbody>
-</table>
-
-<br>
-
-# 📂 Projects
-
-## [🛡 TempoCompiler *(Still in dévelopment)*](https://github.com/jdenozi/TempoCompiler)
-
-It is a custom compiler written in modern C++ (20)
-
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+```
 <p align="center">
-	<a href="https://github.com/jdenozi/TempoCompiler"><img src="https://www.silicon.fr/wp-content/uploads/2012/01/Open-source-Code-%C2%A9-Zothen-Fotolia.com_-684x513.jpg" width="500"></a>
+<a href="https://en.cppreference.com/w/c/language" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="33" height="30"/>
+</a>
+<a href="https://en.cppreference.com/w/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+    <img src="https://icons-for-free.com/download-icon-java+icon-1320167912601224138_512.png" width="30" height="30"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.opengl.org" target="_blank">
+    <img src="https://pics.freeicons.io/uploads/icons/png/6991391551551941714-512.png" width="30" height="30"/>
+</a> 
+<a href="https://www.lwjgl.org/" target="_blank">
+    <img src="https://www.lwjgl.org/img/fav/favicon.svg" width="26" height="26"/>
+</a>                                                                                                                  
+<a href="https://www.git-scm.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30" height="30"/>
+</a>                                                                                                                                               
+<a href="https://www.x.org/releases/X11R7.5/doc/libX11/libX11.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/X11.png" width="30" height="30">
+</a>
 </p>
 
-<br>
-
-## [🌌 Space Crawler *(Still in development)*](https://github.com/jdenozi/SpaceCrawler)
-
-This program is an n-body type simulation using GPU acceleration. It is able to simulate galaxies, galaxy collisions and universes. You can choose a lot of parameters like the speed of the stars, the shape of the galaxy, and more...
-
+<details>
+    <summary>Click for more</summary>
+    
+### Github stats
 <p align="center">
-	<a href="https://github.com/jdenozi/SpaceCrawler"><img src="https://user-images.githubusercontent.com/35966341/202544649-d1db0258-b0f8-44f2-9161-08e935c740f6.png" width="500"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdenozi&layout=compact&bg_color=0d111700&hide_title=true&hide_border=true&langs_count=4&exclude_repo=jdenozi.com" width="50%"/>
 </p>
 
-<br>
+### Current projects
+- [Tempo Compiler](https://github.com/jdenozi/TempoCompiler)
+- [Space crawler](https://github.com/jdenozi/SpaceCrawler) 
+
+- ### Libraries
+
+
+- ### Programs
+
+
+- ### Others
+
+
+- ### Forks
+
+</details>
