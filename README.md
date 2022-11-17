@@ -40,13 +40,16 @@ int main() {
 </a>
 </p>
 
-<details>
-    <summary>Click for more</summary>
-    
 ### Github stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdenozi&layout=compact&bg_color=0d111700&hide_title=true&hide_border=true&langs_count=4&exclude_repo=jdenozi.com" width="50%"/>
 </p>
+
+
+<details>
+    <summary>Click for more</summary>
+    
+
 
 ### Current projects
 - [Tempo Compiler](https://github.com/jdenozi/TempoCompiler)
