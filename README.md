@@ -8,6 +8,12 @@ int main() {
 }
 ```
 <p align="center">
+<a href="https://en.cppreference.com/w/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
+</a>
 <a href="https://en.cppreference.com/w/c/language" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
 </a>
@@ -17,15 +23,11 @@ int main() {
 <a href="https://www.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="33" height="30"/>
 </a>
-<a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
-</a>
+
 <a href="https://www.java.com/" target="_blank">
     <img src="https://icons-for-free.com/download-icon-java+icon-1320167912601224138_512.png" width="30" height="30"/>
 </a>
-<a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
-</a>
+
 <a href="https://www.opengl.org" target="_blank">
     <img src="https://pics.freeicons.io/uploads/icons/png/6991391551551941714-512.png" width="30" height="30"/>
 </a> 
