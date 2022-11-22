@@ -30,15 +30,12 @@ int main() {
 
 <a href="https://www.opengl.org" target="_blank">
     <img src="https://pics.freeicons.io/uploads/icons/png/6991391551551941714-512.png" width="30" height="30"/>
-</a> 
-<a href="https://www.lwjgl.org/" target="_blank">
-    <img src="https://www.lwjgl.org/img/fav/favicon.svg" width="26" height="26"/>
-</a>                                                                                                                  
+</a>                                                                            
 <a href="https://www.git-scm.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30" height="30"/>
 </a>                                                                                                                                               
-<a href="https://www.x.org/releases/X11R7.5/doc/libX11/libX11.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/X11.png" width="30" height="30">
+<a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-220px-Tensorflow_logo.svg.png" width="30" height="30">
 </a>
 </p>
 
