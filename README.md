@@ -40,9 +40,7 @@ int main() {
 </p>
 
 ### Github stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdenozi&layout=compact&bg_color=0d111700&hide_title=true&hide_border=true&langs_count=4&exclude_repo=jdenozi.com" width="50%"/>
-</p>
+![JDenozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdenozi&show_icons=true&theme=onedark)
 
 
 <details>
