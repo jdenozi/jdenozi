@@ -8,6 +8,9 @@ int main() {
 }
 ```
 <p align="center">
+    <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="30" height="30"/>
+</a>
 <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
 </a>
